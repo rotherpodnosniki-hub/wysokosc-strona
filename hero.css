@@ -61,7 +61,8 @@
 }
 
 /* Dodany cień tekstu dla idealnej czytelności na jaśniejszym tle */
-.hero-content h2 {
+.hero-content h2,
+.hero-content h1 {
   font-size: 3rem;
   margin-bottom: 20px;
   line-height: 1.2;
